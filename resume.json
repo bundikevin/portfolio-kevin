@@ -1,0 +1,166 @@
+{
+"basicinfo": {
+    "name": "Bundi Kevin Makori",
+    "position": "Software Quality Assurance Engineer",
+    "mobile_no": "+254719570513",
+    "email": "bundikevinmakori@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kevin-bundi-948323137/",
+    "github": "https://www.linkedin.com/in/kevin-bundi-948323137/",
+    "photo": "https://drive.google.com/file/d/1suVyXh0sbE32MELujMUTyHvgBuhOTXDz/view?usp=drive_link"
+},
+
+"summary": {
+    "careersummary": "A Software Quality Assurance Engineer with more than three years’ work experience. With great attention to detail and commitment I have been able to develop and implement continuous improvement initiatives through the collection and analysis of data and converting it into actionable. Proven experience in functional, non-functional and API testing using appropriate tools. Test plan creation and implementation, test case creation and execution, and bug tracking are my daily activities in quality assurance role."
+},
+
+"skills": {
+    "1": "Functional Software Testing",
+    "2": "Non-Functional Software Testing",
+    "3": "API Testing Using Postman Tool",
+    "4": "SQL",
+    "5": "Azure DevOps",
+    "6": "Git/Github",
+    "7": "Jira, TestLink, Mantis",
+    "8": "Automation Testing using Katalon Studio, Cypress, Selenium",
+    "9": "Performance Testing using Apache Jmeter",
+    "10": "Web Development using HTML, CSS, and JavaScript"
+},
+
+"workeexperience": [
+    {
+        "Role": "Senior Quality Assurance Engineer",
+        "Company": "QATestLab",
+        "Period": "January 2022 to Date",
+        "Responsibilities": [
+                            "Building up and leading the Testing Team to the success of the project.",
+                            "Creating and executing test cases, writing bug reports, test plans, and preparing test data.",
+                            "Web and mobile manual testing.",
+                            "Cross-browser testing.",
+                            "Bug reporting, tracking and further processing of bugs.",
+                            "Sprint planning and retrospective meeting",
+                            "Collaborating with the development team to resolve and close open issues",
+                            "Functional, UI, Smoke, Ad hoc, end-to-end and regression testing.",
+                            "Using a bug tracking system (Clickup and Jira) to document found defects, verify defects after fixes and test results reporting."
+                            ],
+        "Achievements": [
+            
+        ]
+    },
+    {
+        "Role": "Software Tester Engineer",
+        "Company": "Techno Brain Limited",
+        "Period": "January 2019 to January 2022",
+        "Responsibilities": [
+                            "Test Management - Responsible for setting up the test environment, create/ design Test scenarios and Test cases",
+                            "Test Script Creation and Refactoring - Automate tests (supported by test lead)",
+                            "Contribute to the creation of test plans",
+                            "Test Execution - Prepare and acquire test data - Execute and log tests, evaluate results and document deviations from expected results",
+                            "Test Reporting - Run reports on identified defects and tracking them to closure",
+                            "Periodic (Daily) reporting of the Daily status of all assigned tasks to the supervisor",
+                            "Knowledge Transfer: - Conducting and participating in Trainings, Team Meetings, and other Knowledge Transfer Projects"
+                            ],
+        "Achievements": [
+            "100% of Test Coverage of scheduled apps as per delegated target (daily/weekly/monthly forecast)",
+            "Error free reporting and documentation."
+        ]
+    },
+    {
+        "Role": "System Support Technician",
+        "Company": "Corvid Partners Limited",
+        "Period": "July 2018 to September 2018",
+        "Responsibilities": [
+                            "Ubuntu server installation and configuration.",
+                            "Wildfly server installation and configuration.",
+                            "Java web application deployment.",
+                            "User Support and Training.",
+                            "Computer System Troubleshooting to Detect and Solve Technical Problems"
+                            ],
+        "Achievements": [
+            "Managed to install and configure Ubuntu Server at 100% effectiveness",
+            "Resolved 99.9% computer system technical problems"
+        ]
+    },
+    {
+        "Role": "ICT Trainer",
+        "Company": "Nairobi Institute of Software Development",
+        "Period": "August 2017 to July 2017",
+        "Responsibilities": [
+                            "Developing and distributing teaching materials to supplement classroom lessons, including study guides",
+                            "Conducting practice tests to track progress",
+                            "Working with students to help them understand key concepts",
+                            "Assisting students with projects and test preparation",
+                            "Reviewing classroom or curricula topics and assignments"
+                            ],
+        "Achievements": [
+            "Achieved 100% student performance on IT enlightening",
+            "Managed to improve the practical requirement of IT in the institute"
+        ]
+    },
+    {
+        "Role": "Network Engineer",
+        "Company": "Iconet Solutions Limited",
+        "Period": "November 2016 to February 2017",
+        "Responsibilities": [
+                            "Wimax Installation and Maintenance (Safaricom Clients)",
+                            "Wireless Gateway Networks (handling routers and switches with emphasis on installation System, configurations, and equipment maintenance)",
+                            "Maintenance and Support of Network Systems",
+                            "Last Mile Fiber blowing and Configuration of Access Routers",
+                            "Fiber Splicing and Termination"
+                            ],
+        "Achievements": [
+
+        ]
+    }
+], 
+
+"education": [
+    {
+        "course/level": "Bsc Information Technology (2nd Class Honours Upper Division)",
+        "school/college": "Karatina University",
+        "period": "2012 - 2016"
+    },
+    {
+        "course/level": "Kenya Certificate of Secondary Education (A-)",
+        "school/college": "Nyambaria High School",
+        "period": "2008 - 2011"
+    },
+    {
+        "course/level": "Certificate in Computer Systems Application Packages",
+        "school/college": "Elgon View College",
+        "period": "2012"
+    }
+],
+
+"professionalcerts": [
+    {
+        "title": "Microsoft Certified Azure Administrator Associate"
+    },
+    {
+        "title": "Oracle Cloud Infrastructure Foundations 2020 Certified Associate"
+    },
+    {
+        "title": "QATestLab Fundamentals of Software Testing"
+    }
+],
+
+"referees": [
+    {
+        "name": "Evon Onchoke",
+        "role": "PM System Initiated Feedback Review/Technical Content",
+        "Company":"Techno Brain Africa’s 1st Microsoft Software Testing",
+        "statement":""
+    },
+    {
+        "name": "Samwel Ongera",
+        "role": "Functional Testing Engineer",
+        "Company":"Safaricom PLC",
+        "statement":""
+    },
+    {
+        "name": "Martin Mweu",
+        "role": "ICT Specialist",
+        "Company":"Ministry of Land, Housing and Urban Development",
+        "statement":""
+    }
+]
+}
